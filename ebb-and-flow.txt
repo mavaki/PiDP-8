@@ -1,0 +1,148 @@
+*200
+        CLA          
+        IAC
+START,  CLL RAL
+        IAC
+AA,     ISZ TMP1
+        JMP AA
+        ISZ TMP2
+        JMP AA
+        CLL RAL
+        IAC
+AB,     ISZ TMP1
+        JMP AB
+        ISZ TMP2
+        JMP AB
+        CLL RAL
+        IAC
+AC,     ISZ TMP1
+        JMP AC
+        ISZ TMP2
+        JMP AC
+        CLL RAL
+        IAC
+AD,     ISZ TMP1
+        JMP AD
+        ISZ TMP2
+        JMP AD
+        CLL RAL
+        IAC
+AE,     ISZ TMP1
+        JMP AE
+        ISZ TMP2
+        JMP AE
+        CLL RAL
+        IAC
+AF,     ISZ TMP1
+        JMP AF
+        ISZ TMP2
+        JMP AF
+        CLL RAL
+        IAC       
+AG,     ISZ TMP1
+        JMP AG
+        ISZ TMP2
+        JMP AG
+        CLL RAL
+        IAC       
+AH,     ISZ TMP1
+        JMP AH
+        ISZ TMP2
+        JMP AH
+        CLL RAL
+        IAC
+AI,     ISZ TMP1
+        JMP AI
+        ISZ TMP2
+        JMP AI
+        CLL RAL
+        IAC
+AJ,     ISZ TMP1
+        JMP AJ
+        ISZ TMP2
+        JMP AJ
+        CLL RAL
+        IAC
+AK,     ISZ TMP1
+        JMP AK
+        ISZ TMP2
+        JMP AK
+        CLL RAL
+        IAC       
+AL,     ISZ TMP1
+        JMP AL
+        ISZ TMP2
+        JMP AL
+        CLL RAL
+BA,     ISZ TMP1
+        JMP BA
+        ISZ TMP2
+        JMP BA
+        CLL RAL
+BB,     ISZ TMP1
+        JMP BB
+        ISZ TMP2
+        JMP BB
+        CLL RAL
+BC,     ISZ TMP1
+        JMP BC
+        ISZ TMP2
+        JMP BC
+        CLL RAL
+BD,     ISZ TMP1
+        JMP BD
+        ISZ TMP2
+        JMP BD
+        CLL RAL
+BE,     ISZ TMP1
+        JMP BE
+        ISZ TMP2
+        JMP BE
+        CLL RAL
+BF,     ISZ TMP1
+        JMP BF
+        ISZ TMP2
+        JMP BF
+        CLL RAL
+BG,     ISZ TMP1
+        JMP BG
+        ISZ TMP2
+        JMP BG
+        CLL RAL
+BH,     ISZ TMP1
+        JMP BH
+        ISZ TMP2
+        JMP BH
+        CLL RAL
+BI,     ISZ TMP1
+        JMP BI
+        ISZ TMP2
+        JMP BI
+        CLL RAL
+BJ,     ISZ TMP1
+        JMP BJ
+        ISZ TMP2
+        JMP BJ
+        CLL RAL
+BK,     ISZ TMP1
+        JMP BK
+        ISZ TMP2
+        JMP BK
+        CLL RAL
+BL,     ISZ TMP1
+        JMP BL
+        ISZ TMP2
+        JMP BL
+        CLL RAL
+BM,     ISZ TMP1
+        JMP BM
+        ISZ TMP2
+        JMP BM
+        CLL RAL
+BN,     ISZ TMP1
+        JMP BN
+        ISZ TMP2
+        JMP BN
+
+TMP1,   0000
+TMP2,   0000

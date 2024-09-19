@@ -1,0 +1,13 @@
+*200
+        CLA
+        IAC
+START,  CLL RAL
+        IAC
+AA,     ISZ TMP1
+        JMP AA
+        ISZ TMP2
+        JMP AA
+        JMP START
+        HLT
+TMP1,   0000
+TMP2,   6000

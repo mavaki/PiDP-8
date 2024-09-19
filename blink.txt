@@ -1,0 +1,26 @@
+*200
+        CLA
+        CLL
+        IAC
+        RTL
+        IAC
+        RTL
+        IAC
+        RTL
+        IAC
+        RTL
+        IAC
+        RTL
+        IAC
+        CML
+        JMP AA
+XX,     CML
+        CMA
+AA,     ISZ TMP1
+        JMP AA
+        ISZ TMP2
+        JMP AA
+        JMP XX
+
+TMP1,   0000
+TMP2,   0000
